@@ -1,4 +1,4 @@
 # PRITAM-GIT-DEMO
 THIS IS MY FIRST GIT REPOSITORY 
 <br>
-Auther-Prita Tung 
+Auther-Pritam Tung 
